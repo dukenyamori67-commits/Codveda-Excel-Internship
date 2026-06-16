@@ -45,6 +45,43 @@
 - Microsoft Excel
 - Boston House Prediction Dataset (CSV)
 
+
+---
+
+## Level 2 — Intermediate (Data Cleaning & Pivot Analysis)
+
+### Dataset Used
+**Social Media Sentiment Dataset**
+- 732 rows × 14 columns
+- Contains social media posts from Twitter, Instagram and Facebook
+- Columns: ID, Post Text, Sentiment, Timestamp, Username, 
+  Platform, Hashtags, Retweets, Likes, Country, Year, Month, Day, Hour
+
+### Tasks Completed
+
+#### Task 1 — Data Cleaning & Preprocessing
+| Tool/Function | Purpose |
+|---------------|---------|
+| TRIM | Removed leading, trailing and extra spaces |
+| CLEAN | Removed invisible non-printable characters |
+| SUBSTITUTE | Standardized sentiment labels |
+| UPPER/LOWER/PROPER | Standardized text casing |
+| LEN | Proved cleaning worked mathematically |
+| Flash Fill | Extracted date components automatically |
+| Find & Replace | Mass updated country names |
+
+#### Task 2 — Pivot Tables & Pivot Charts
+| Feature | Purpose |
+|---------|---------|
+| Pivot Table 1 | Posts by Sentiment |
+| Pivot Table 2 | Posts by Platform |
+| Pivot Table 3 | Avg Likes & Retweets by Country |
+| Pivot Table 4 | Platform × Sentiment cross-tabulation |
+| Calculated Field | Engagement Rate formula |
+| Slicers | Interactive filtering across all tables |
+| Timeline | Date-based filtering |
+| Pivot Charts | Bar, Pie and Line visualizations |
+
 ---
 
 ## Internship Provider
